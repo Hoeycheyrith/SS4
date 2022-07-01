@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,400;0,600;0,700;1,200;1,400;1,600&display=swap');
 
 body{
-    background-color: #eeeeee;
+    background-color: grey;
     font-family: 'Source Sans Pro', sans-serif;
 }
 section{
@@ -10,15 +10,13 @@ section{
 h1,h2,h3{
     font-weight: 600;
 }
-.mynav{
-    background-color: #eeeeee;   
-}
+
 .summary-profile {
     margin-top: 6rem;
 }
    
 .summary-profile .profile img {
-    width: 70%;
+    width: 60%;
     
     border-radius: 50%;
 }
@@ -89,13 +87,13 @@ h1,h2,h3{
 .footer a{
     color: #0e6bbd;
 }
-.footer{
+.footer hr{
     margin-top: 0.5em;
     margin-bottom: 0.5em ;
     margin-left: auto;
     margin-right: auto ;
     border-style: inset ;
-    border-width: 2px;
+    border-width: 5px;
 }
 .footer nav a{
     margin-right: 1.5rem;
